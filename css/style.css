@@ -1,0 +1,34 @@
+* {
+    font-family: Arial;
+    font-size: 14px;
+    color: #333;
+  }
+  .cabecalho >p {
+    text-align: right;
+    font-size: 12px;
+    line-height: 1.5px
+  }
+  h1{
+    font-size: 20px
+  }
+  img {
+    width: 80px;
+    border: 5px solid #bebebe;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 150px 700px;
+  }
+  .container {
+    display:flex;
+    justify-content: self-start;
+    align-content: self-start;
+  }
+  .item {
+    padding: 10px;
+  }
+  .titulo{
+    width: 100px;
+    align-content: left;
+  }
+  
